@@ -22,7 +22,6 @@
     - type: Tag
       tags:
         - ForceRecallEquipment
-    - type: NoSlip
     - type: Sprite
       sprite: Stories/Clothing/Shoes/Boots/jedi.rsi
     - type: Clothing
@@ -37,7 +36,6 @@
     - type: Tag
       tags:
         - ForceRecallEquipment
-    - type: NoSlip
     - type: Sprite
       sprite: Stories/Clothing/Shoes/Boots/jedi_nt.rsi
     - type: Clothing
@@ -52,7 +50,6 @@
     - type: Tag
       tags:
         - ForceRecallEquipment
-    - type: NoSlip
     - type: Sprite
       sprite: Stories/Clothing/Shoes/Boots/jedi_nomad.rsi
     - type: Clothing
